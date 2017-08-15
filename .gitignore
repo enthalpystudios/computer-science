@@ -1,9 +1,3 @@
 # Compiled class file
 target/
 *.class
-
-# Package Files #
-*.jar
-*.zip
-
-.idea
