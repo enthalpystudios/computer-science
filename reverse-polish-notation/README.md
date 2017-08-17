@@ -20,14 +20,6 @@ because
 => 5
 ```
 
-# Running
+# Implementations
 
-Compiling
-`
-javac -cp .:../libraries/* ReversePolishNotationCalculator.java ReversePolishNotationCalculatorTest.java -d target/
-`
-
-Running the tests
-`
-java -cp target/:../libraries/* org.junit.runner.JUnitCore ReversePolishNotationCalculatorTest
-`
+There are two implementations of the same problem, in Java and Scala
