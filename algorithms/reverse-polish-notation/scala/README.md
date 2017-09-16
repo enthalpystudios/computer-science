@@ -1,6 +1,6 @@
 # Reverse Polish Notation
 
-This implementation is done in Scala (2.13.x)
+This implementation is done in Scala (2.12.x)
 
 # Running
 
